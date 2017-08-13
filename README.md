@@ -9,7 +9,7 @@ last update at Sun, Aug 13th 2017 to v2.2.1
 
 
 u can install "CLVID.theme.css" to the themes foulder in BetterDiscord
-or use "@import url(https://mom-Assistance.github.io/ClVID_basedClearVision_v5.min.css);"
+or use "@import url(https://mom-Assistance.github.io/ClVID.theme.css);"
 to use CLVID */
 }
 
